@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/hand-gesture-tutorial/index.html",
+      "/posts/heat-diffusion/index.html",
+      "/posts/fake-news-classification/index.html",
+      "/posts/image-classification/index.html",
+      "/posts/web-scraping/index.html",
+      "/posts/climate/climate.html",
+      "/posts/penguins/index.html"
+    ]
+  }
+]
