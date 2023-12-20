@@ -1,0 +1,16 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/reetinav/
+    - icon: github
+      text: Github
+      href: https://github.com/ReetinavDas
+
+---
+
+Hi there! My name is Reetinav Das, and I'm a fourth year student at UCLA majoring in Applied Mathematics with a Specialization in Computing and minoring in Data Science Engineering! (That's a mouthful.) My primary interests are in computer vision and machine learning, and I especially love when I get the chance to combine the both of them.
